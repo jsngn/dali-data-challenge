@@ -28,6 +28,6 @@ Interactive features should work:
 
 Window after disabling plots for the Unaffiliated group.
 
-![Zoomed](https://i.imgur.com/MvdJOz0.png)
+![Zoomed](https://i.imgur.com/xcXCMFr.png)
 
 Window after using Zoom tool.
