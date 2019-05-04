@@ -3,13 +3,13 @@ Description: Submission for DALI's Data Challenge. This program uses plotly to m
 
 Instructions:
 
-1. Download the .zip file.
+1. Download the .zip file and extract the files.
 
 2. Open DALI_plot.html with Google Chrome.
 
 OR
 
-1. Download the .zip file.
+1. Download the .zip file and extract the files.
 
 2. Copy affiliated_effect.py and DALI_Data-Anon.json into a new PyCharm project.
 
