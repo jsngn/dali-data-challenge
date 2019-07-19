@@ -1,5 +1,5 @@
 # dali-data-challenge
-Description: Submission for DALI's Data Challenge. This program uses plotly to make a bubble chart that shows the effect of affiliation status on the level of alcohol consumption and social dinner participation that gives low stress.
+Description: Submission for DALI's Data Challenge, part of my application for the 19F term. This program uses plotly to make a bubble chart that shows the effect of affiliation status on the level of alcohol consumption and social dinner participation that gives low stress.
 
 Instructions:
 
